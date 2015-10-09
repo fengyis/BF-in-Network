@@ -14,7 +14,9 @@ In the main thread, there are simply two scenarioes to be considered. One is pro
 
 ##Operation Instruction:
 **1. Initialization/ Host Startup**
-```$ python bfclient.py clientX.txt```
+```
+$ python bfclient.py clientX.txt
+```
 clientX.txt is the local configure file where it specifies the local port number, neighbors, timeout and costs.
 
 ##Functionality 	
