@@ -1,4 +1,4 @@
-#This is the second programming assignment in Computer Network CSEE 4119. 
+#Bellman-Ford Algorithm in Computer Network
 ##Description:
 
 In this assignment  I will implement a version of the distributed Bellman­Ford algorithm. The algorithm will operate using a set of distributed host processes. The hosts perform the distributed distance computation and support a command line user interface, e.g. each host allows the user to edit links to the neighbors and view the routing table. Hosts may be distributed across different machines and more than one host can be on the same machine.
